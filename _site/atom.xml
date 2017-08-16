@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Lanyon</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-08-16T17:01:24+08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>new post</title>
+   <link href="http://localhost:4000/2017/08/16/new-post/"/>
+   <updated>2017-08-16T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2017/08/16/new-post</id>
+   <content type="html">&lt;p&gt;这本《我所有的朋友都死了》在2015年左右翻阅过，但时至今日对其内容却不怎么记得了。于是在贴吧上找到了上下两册，又读了一遍。书名十分惊悚，但实际上是一本讲述孤独的书，因为所提及的“朋友”根本不存在，又谈何他们的生死呢？&lt;/p&gt;
+
+&lt;p&gt;下面这个玩社交网站的发际线堪忧的男子简直就是另一个我：&lt;/p&gt;
+
+&lt;p&gt;!(/img/f1.png)
+!(/img/f2.png)
+!(/img/f3.png)
+!(/img/f4.png)
+!(/img/f5.png)
+!(/img/f6.png)
+!(/img/f7.png)
+!(/img/f8.png)
+!(/img/f9.png)
+!(/img/f10.png)
+!(/img/f11.png)&lt;/p&gt;
+
+&lt;p&gt;如果我遇到这个小机器人，也不一定会跟它做朋友。一方面怕自己不善于表达而伤害到它，另一方面又害怕自己的空间被它的热情而打扰。所以“我所有的朋友都死了”。&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
