@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archives
+title: Archives
 sequence: 2
 ---
 <br />
