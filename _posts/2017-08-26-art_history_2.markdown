@@ -1,5 +1,5 @@
 ---
-title: art_history_2
+title: 世界美术名作二十讲（2）
 layout: post
 tags:
   -
