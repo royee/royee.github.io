@@ -4,6 +4,12 @@ layout: post
 tags:
   -
 ---
+[第一讲～第八讲](https://royee.github.io/2017/08/26/art_history_1/)
+[第九讲～第十五讲](https://royee.github.io/2017/08/26/art_history_2/)
+[第十六讲～第二十讲](https://royee.github.io/2017/08/26/art_history_3/)
+
+## 接上：
+
 ### 第九讲至第十一讲　拉斐尔
 
 莱奥纳多·达·芬奇、米开朗琪罗、拉斐尔，原是文艺复兴期鼎足而立的三杰。他们三个各有各的面目与精神，各自实现文艺复兴这个光华璀燦的时代的繁复多边的精神之一部。
