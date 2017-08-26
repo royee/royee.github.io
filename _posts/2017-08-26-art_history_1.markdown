@@ -10,9 +10,11 @@ tags:
 
 ## 读书笔记如下：
 
-[第一讲～第八讲](https://royee.github.io/2017/08/26/art_history_1/)
-[第九讲～第十五讲](https://royee.github.io/2017/08/26/art_history_2/)
-[第十六讲～第二十讲](https://royee.github.io/2017/08/26/art_history_3/)
+[世界美术名作二十讲（1）（第一讲～第八讲）](https://royee.github.io/2017/08/26/art_history_1/)
+
+[世界美术名作二十讲（2）（第九讲～第十五讲）](https://royee.github.io/2017/08/26/art_history_2/)
+
+[世界美术名作二十讲（3）（第十六讲～第二十讲）](https://royee.github.io/2017/08/26/art_history_3/)
 
 ### 第一讲　乔托与阿西西的圣方济各
 
